@@ -12,7 +12,7 @@
 	<project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" revision="cm-14.1" />
 
 	<project path="device/samsung/sharkls-common" name="djeman/android_device_samsung_sharkls-common" revision="cm-14.1" />
-	<project path="device/samsung/j3xnlte" name="djeman/android_device_samsung_j3xnlte" revision="cm-14.1" />
+	<project path="device/samsung/j3xnlte" name="SulivanM/android_device_samsung_j3xnlte" revision="cm-14.1" />
 	<project path="device/samsung/j3xlte" name="djeman/android_device_samsung_j3xlte" revision="cm-14.1" />
 	<project path="kernel/samsung/sharkls" name="djeman/android_kernel_samsung_sharkls" revision="cm-14.1" />
 	<project path="vendor/samsung/common" name="djeman/android_vendor_samsung_common" revision="cm-14.1" />
